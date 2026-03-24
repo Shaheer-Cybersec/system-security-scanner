@@ -1,4 +1,5 @@
 # 🔐 System Security Scanner
+> A standalone cybersecurity tool for basic system risk assessment.
 
 A standalone Python-based cybersecurity tool designed to perform basic system security assessments on a local machine.
 
